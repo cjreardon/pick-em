@@ -1,0 +1,377 @@
+1662647491760	geckodriver	INFO	Listening on 127.0.0.1:57859
+1662647492280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57860" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilew7xlBa"
+WebDriver BiDi listening on ws://localhost:57860
+DevTools listening on ws://localhost:57860/devtools/browser/11cd1259-2887-4fc7-bb44-be5f1b4bc309
+1662647514399	geckodriver	INFO	Listening on 127.0.0.1:58019
+1662647514922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58020" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilecTsL4n"
+1662647515599	Marionette	INFO	Marionette enabled
+1662647515633	Marionette	INFO	Listening on port 58031
+WebDriver BiDi listening on ws://localhost:58020
+Read port: 58031
+1662647516010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilecTsL4n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58020/devtools/browser/b026d484-a443-4383-b79e-b419a1334bc1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662647690770	geckodriver	INFO	Listening on 127.0.0.1:59035
+1662647691291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59036" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileTCtvTy"
+1662647691802	Marionette	INFO	Marionette enabled
+1662647691856	Marionette	INFO	Listening on port 59049
+WebDriver BiDi listening on ws://localhost:59036
+Read port: 59049
+1662647692514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileTCtvTy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59036/devtools/browser/e48b82fc-4c2d-4c64-bfc0-5e962895adff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662647778138	geckodriver	INFO	Listening on 127.0.0.1:59553
+1662647778657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59554" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile3jhTlD"
+1662647779381	Marionette	INFO	Marionette enabled
+1662647779432	Marionette	INFO	Listening on port 59565
+WebDriver BiDi listening on ws://localhost:59554
+Read port: 59565
+1662647779822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile3jhTlD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59554/devtools/browser/500134b1-7092-4510-bfe8-2e95ff56e7a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662647836894	geckodriver	INFO	Listening on 127.0.0.1:59924
+1662647837414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59925" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileuAd7gx"
+1662647838123	Marionette	INFO	Marionette enabled
+1662647838155	Marionette	INFO	Listening on port 59941
+WebDriver BiDi listening on ws://localhost:59925
+Read port: 59941
+1662647838560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileuAd7gx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59925/devtools/browser/e81f70eb-41c9-4be2-927b-1260559961dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662647852916	Marionette	INFO	Stopped listening on port 59941
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662647855486	Marionette	INFO	Stopped listening on port 59565
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662647856603	Marionette	INFO	Stopped listening on port 59049
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662647858285	Marionette	INFO	Stopped listening on port 58031
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662648222449	geckodriver	INFO	Listening on 127.0.0.1:62086
+1662648222973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62087" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilebCvvVI"
+1662648223565	Marionette	INFO	Marionette enabled
+1662648223605	Marionette	INFO	Listening on port 62098
+WebDriver BiDi listening on ws://localhost:62087
+Read port: 62098
+1662648223971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilebCvvVI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62087/devtools/browser/2106c2dc-1f8b-41e5-b8ec-f6511f7a1c8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649004032	geckodriver	INFO	Listening on 127.0.0.1:49614
+1662649004553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49615" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile7Y9eJ5"
+1662649005188	Marionette	INFO	Marionette enabled
+1662649005230	Marionette	INFO	Listening on port 49626
+WebDriver BiDi listening on ws://localhost:49615
+Read port: 49626
+1662649005598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile7Y9eJ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49615/devtools/browser/d031f076-8587-44b0-b43a-46fbdc7f1fef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649025876	Marionette	INFO	Stopped listening on port 49626
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649029637	geckodriver	INFO	Listening on 127.0.0.1:49828
+1662649030263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49829" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilejt45aD"
+1662649030685	Marionette	INFO	Marionette enabled
+1662649030733	Marionette	INFO	Listening on port 49840
+WebDriver BiDi listening on ws://localhost:49829
+Read port: 49840
+1662649031424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilejt45aD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49829/devtools/browser/3820acff-15d9-4456-8413-a6b22786af37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649057346	geckodriver	INFO	Listening on 127.0.0.1:50050
+1662649057356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50051" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileQNfizn"
+1662649057953	Marionette	INFO	Marionette enabled
+1662649057990	Marionette	INFO	Listening on port 50061
+WebDriver BiDi listening on ws://localhost:50051
+Read port: 50061
+1662649058376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileQNfizn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50051/devtools/browser/d749d417-237e-4ebc-a806-d552bacd73b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649082074	geckodriver	INFO	Listening on 127.0.0.1:50260
+1662649082590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50261" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileJZlXvi"
+1662649083178	Marionette	INFO	Marionette enabled
+1662649083216	Marionette	INFO	Listening on port 50274
+WebDriver BiDi listening on ws://localhost:50261
+Read port: 50274
+1662649083602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileJZlXvi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50261/devtools/browser/5f647446-d8b0-462d-80b9-69ee191e24c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649258940	geckodriver	INFO	Listening on 127.0.0.1:51192
+1662649259467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51193" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilemv8oCS"
+1662649260110	Marionette	INFO	Marionette enabled
+1662649260168	Marionette	INFO	Listening on port 51204
+WebDriver BiDi listening on ws://localhost:51193
+Read port: 51204
+1662649260559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilemv8oCS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51193/devtools/browser/1c3e1120-ebc1-4c7e-9ede-8567dcf69450
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649280779	geckodriver	INFO	Listening on 127.0.0.1:51384
+1662649281306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51385" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofiley8jsug"
+1662649281915	Marionette	INFO	Marionette enabled
+1662649281948	Marionette	INFO	Listening on port 51396
+WebDriver BiDi listening on ws://localhost:51385
+Read port: 51396
+1662649282350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofiley8jsug/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51385/devtools/browser/40bdd92c-fe85-496d-adb3-e7cc02da01e7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649326567	Marionette	INFO	Stopped listening on port 51396
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649328388	Marionette	INFO	Stopped listening on port 50274
+1662649329595	Marionette	INFO	Stopped listening on port 51204
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649330827	Marionette	INFO	Stopped listening on port 50061
+1662649332150	Marionette	INFO	Stopped listening on port 49840
+1662649449621	geckodriver	INFO	Listening on 127.0.0.1:52275
+1662649450160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52276" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilev8UcNh"
+1662649450792	Marionette	INFO	Marionette enabled
+1662649450849	Marionette	INFO	Listening on port 52288
+WebDriver BiDi listening on ws://localhost:52276
+Read port: 52288
+1662649451225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilev8UcNh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52276/devtools/browser/bdb49e2f-576a-49ef-96ff-85769a3ad0f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649511163	geckodriver	INFO	Listening on 127.0.0.1:52770
+1662649511693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52771" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilej2kT7Z"
+1662649512485	Marionette	INFO	Marionette enabled
+1662649512540	Marionette	INFO	Listening on port 52786
+WebDriver BiDi listening on ws://localhost:52771
+Read port: 52786
+1662649512929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilej2kT7Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52771/devtools/browser/700e1606-3f8d-4d24-adef-a67cb436e496
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649529523	geckodriver	INFO	Listening on 127.0.0.1:52956
+1662649529533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52957" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilegmiaYq"
+1662649530045	Marionette	INFO	Marionette enabled
+1662649530104	Marionette	INFO	Listening on port 52967
+WebDriver BiDi listening on ws://localhost:52957
+Read port: 52967
+1662649530808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilegmiaYq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52957/devtools/browser/ca479e2a-a3e2-45ba-b9e1-3506b9a1ad13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649563114	Marionette	INFO	Stopped listening on port 52967
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649565044	Marionette	INFO	Stopped listening on port 52288
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649617672	geckodriver	INFO	Listening on 127.0.0.1:53583
+1662649618197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53584" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileP7O05L"
+1662649618651	Marionette	INFO	Marionette enabled
+1662649618711	Marionette	INFO	Listening on port 53595
+WebDriver BiDi listening on ws://localhost:53584
+Read port: 53595
+1662649619373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileP7O05L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53584/devtools/browser/054b3ad2-40f4-465a-a170-cc8028643e69
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649632566	geckodriver	INFO	Listening on 127.0.0.1:53749
+1662649632577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53750" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileYu5Ook"
+1662649633218	Marionette	INFO	Marionette enabled
+1662649633248	Marionette	INFO	Listening on port 53762
+WebDriver BiDi listening on ws://localhost:53750
+Read port: 53762
+1662649633645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileYu5Ook/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53750/devtools/browser/a9e11a9e-6429-45e8-a7a8-97ae503f477e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649696560	geckodriver	INFO	Listening on 127.0.0.1:54134
+1662649696569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54135" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile8witfN"
+1662649697246	Marionette	INFO	Marionette enabled
+1662649697276	Marionette	INFO	Listening on port 54144
+WebDriver BiDi listening on ws://localhost:54135
+Read port: 54144
+1662649697985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile8witfN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54135/devtools/browser/dcf0983d-2c82-4293-90a4-033ef93ce697
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649935619	geckodriver	INFO	Listening on 127.0.0.1:55497
+1662649936131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55498" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilequVeE6"
+1662649936891	Marionette	INFO	Marionette enabled
+1662649936948	Marionette	INFO	Listening on port 55510
+WebDriver BiDi listening on ws://localhost:55498
+Read port: 55510
+1662649937395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilequVeE6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55498/devtools/browser/ddb14b4b-3e11-430c-b69c-e14008380175
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649962017	geckodriver	INFO	Listening on 127.0.0.1:55711
+1662649962532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55712" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile0vxdgR"
+1662649962955	Marionette	INFO	Marionette enabled
+1662649962999	Marionette	INFO	Listening on port 55725
+WebDriver BiDi listening on ws://localhost:55712
+Read port: 55725
+1662649963748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofile0vxdgR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55712/devtools/browser/056eff6a-526a-4ede-a71b-20f8953cf70e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662649971394	Marionette	INFO	Stopped listening on port 55725
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649972391	Marionette	INFO	Stopped listening on port 55510
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662649973828	Marionette	INFO	Stopped listening on port 54144
+1662649974943	Marionette	INFO	Stopped listening on port 53762
+1662649975890	Marionette	INFO	Stopped listening on port 53595
+1662649977934	Marionette	INFO	Stopped listening on port 52786
+1662649981728	geckodriver	INFO	Listening on 127.0.0.1:55886
+1662649981738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55887" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileaQS3GJ"
+1662649982150	Marionette	INFO	Marionette enabled
+1662649982206	Marionette	INFO	Listening on port 55892
+WebDriver BiDi listening on ws://localhost:55887
+Read port: 55892
+1662649982965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileaQS3GJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55887/devtools/browser/5965995b-83c5-45b1-9e4d-2b7279741023
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662650012079	geckodriver	INFO	Listening on 127.0.0.1:56127
+1662650012088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56128" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileFVlEHK"
+1662650012484	Marionette	INFO	Marionette enabled
+1662650012545	Marionette	INFO	Listening on port 56137
+WebDriver BiDi listening on ws://localhost:56128
+Read port: 56137
+1662650013241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileFVlEHK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56128/devtools/browser/e11562b1-de05-45f9-9bf0-2196b5a9f679
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662650104833	geckodriver	INFO	Listening on 127.0.0.1:56795
+1662650105348	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileA4rrTK"
+1662650106034	Marionette	INFO	Marionette enabled
+1662650106078	Marionette	INFO	Listening on port 56807
+WebDriver BiDi listening on ws://localhost:56796
+Read port: 56807
+1662650106479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileA4rrTK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56796/devtools/browser/98395d24-9894-4b7a-9c38-03384945ddb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662650260753	geckodriver	INFO	Listening on 127.0.0.1:57870
+1662650261269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57871" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileLuoidY"
+1662650261895	Marionette	INFO	Marionette enabled
+1662650261947	Marionette	INFO	Listening on port 57882
+WebDriver BiDi listening on ws://localhost:57871
+Read port: 57882
+1662650262326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileLuoidY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57871/devtools/browser/7eb628a0-318a-41c9-8f3f-7420bf9dd5ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662650290420	geckodriver	INFO	Listening on 127.0.0.1:58121
+1662650290430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58122" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofiledJ31vG"
+1662650291063	Marionette	INFO	Marionette enabled
+1662650291093	Marionette	INFO	Listening on port 58128
+WebDriver BiDi listening on ws://localhost:58122
+Read port: 58128
+1662650291480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofiledJ31vG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58122/devtools/browser/99b8bba9-f9da-45c2-a618-2ca18e1d3016
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662650313529	geckodriver	INFO	Listening on 127.0.0.1:58326
+1662650314042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58327" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileHm7tZb"
+1662650314774	Marionette	INFO	Marionette enabled
+1662650314804	Marionette	INFO	Listening on port 58338
+WebDriver BiDi listening on ws://localhost:58327
+Read port: 58338
+1662650315226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileHm7tZb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58327/devtools/browser/8142946e-9af3-4691-8bc7-5f22d52846c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1662650423592	Marionette	INFO	Stopped listening on port 58338
+1662650425383	Marionette	INFO	Stopped listening on port 57882
+1662650426386	Marionette	INFO	Stopped listening on port 58128
+1662650435118	Marionette	INFO	Stopped listening on port 56807
+1662650436536	Marionette	INFO	Stopped listening on port 56137
+1662650438576	Marionette	INFO	Stopped listening on port 55892
+1662650600928	geckodriver	INFO	Listening on 127.0.0.1:60161
+1662650601452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60162" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilewuvOpj"
+1662650602134	Marionette	INFO	Marionette enabled
+1662650602178	Marionette	INFO	Listening on port 60173
+WebDriver BiDi listening on ws://localhost:60162
+Read port: 60173
+1662650602571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofilewuvOpj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60162/devtools/browser/a0ad7c93-ea22-43f0-8f70-e991eb267b98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+1662650676715	geckodriver	INFO	Listening on 127.0.0.1:60694
+1662650677239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60695" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileNLgKSK"
+1662650678015	Marionette	INFO	Marionette enabled
+1662650678054	Marionette	INFO	Listening on port 60706
+WebDriver BiDi listening on ws://localhost:60695
+Read port: 60706
+1662650678550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kl/171700t951n4pvfcgrwf3ggc0000gn/T/rust_mozprofileNLgKSK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60695/devtools/browser/714929eb-0530-4741-9851-e3bb35cbb568
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pinnacle.com."
